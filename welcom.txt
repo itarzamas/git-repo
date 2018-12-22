@@ -1,1 +1,2 @@
 prin(welcom)
+print(how dod do)
